@@ -6,4 +6,5 @@ Libraries Used:
 Working:
 The application tries calling the API whenever there is a change in date. If the device is not online, then it looks for data in local db storage; if data is found, it shows it otherwise it shows "-" as minimum and maximum temperature (indicating that there is no data found). If the device is online, then the app calls the API successfully and stores the results in local db storage.
 
-Github Repository:
+Github Repository Link:
+https://github.com/atyant20039/MC-Assignment-2-Weather-History-App
